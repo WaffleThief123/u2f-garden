@@ -17,11 +17,13 @@ In order to log in, you must present two forms of authentication:
 * Something you have (such as a one-time password)
 * Something you control (such as a phone app)
 
-Security standards organizations like NIST, who set the standards for security that many Government and Fortune 100 Organizations use as policy, have reccomended moving away on the reliance on things you memorize, like passwords, and further onto controlled authentication devices.
+Security standards organizations like NIST, who set the standards for security in organizations like the Department of Defense and other government organizations
+have suggested moving away on the reliance on things you memorize, like passwords, and further onto controlled authentication devices.
 
 # Why using it matters
 
-By using two forms of authentication, you make it harder for malicious individuals to impersonate you. Website breaches happen on an unfortunately regular basis; websites like [Have I Been Pwned](https://haveibeenpwned.com/)
+By using two forms of authentication, you make it harder for malicious individuals to impersonate you. 
+Website breaches happen on an unfortunately regular basis; websites like [Have I Been Pwned](https://haveibeenpwned.com/)
 have been showing how important it is to choose strong passwords. 
 
 But passwords are only one step of a security system.
