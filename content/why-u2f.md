@@ -21,10 +21,10 @@ Security standards organizations like NIST, who set the standards for security t
 
 # Why using it matters
 
-By using two forms of authentication, you make it harder for malicious individuals to impersonate you. Website breaches happen on an unfortunately regular basis; websites like [Have I Been Pwned](https://haveibeenpwned.com/)
-have been showing how important it is to choose strong passwords. 
+By using two forms of authentication, you make it harder for malicious individuals to impersonate you. Website breaches happen on an unfortunately regular basis; websites like [Have I Been Pwned](https://haveibeenpwned.com/) have been showing how important it is to choose strong passwords. 
 
-But passwords are only one step of a security system.
+Passwords are only one step of your security system. You should be using the 'Something you Know, Something you Have, Something you Control' method that you learned about earlier on this page. 
+Risks of not following this system can include (but are not limited to) the following.  
 
 * Gaining access to your Google account creates a means to change your passwords elsewhere
 * If someone changes your bank password, they can control parts of your finances
